@@ -1,0 +1,6 @@
+export const LOAD_VIDEOS = 'LOAD_VIDEOS';
+export const LOAD_COLLECT_VIDEOS = 'LOAD_COLLECT_VIDEOS';
+
+export const LOAD_COLLECTS = 'LOAD_COLLECTS';
+export const DO_COLLECT = 'DO_COLLECT';
+export const DELETE_COLLECT = 'DELETE_COLLECT';

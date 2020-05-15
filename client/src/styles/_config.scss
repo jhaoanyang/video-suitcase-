@@ -1,0 +1,17 @@
+$primary-color: #2196f3;
+$lighter-color: #6ec6ff;
+$darker-color: #0069c0;
+$text-color: #000;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+$grid-columns: 12;
+$grid-max-width: 12000px;
+$breakpoint-small: "only screen and (min-width: 0px)";
+$breakpoint-medium: "only screen and (min-width: 768px)";
+$breakpoint-large: "only screen and (min-width: 1008px)";
+$breakpoint-xl: "only screen and (min-width: 1300px)";
